@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "portfolio_test" {
-  bucket = "etasura-terraform-test-20260608-01"
+  bucket = "etasura-terraform-test-20260609-01"
 
   tags = {
     Name        = "terraform-test-bucket"
